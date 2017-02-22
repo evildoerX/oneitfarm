@@ -1,13 +1,10 @@
 {
-  "name": "vue-oneitfarm",
+  "name": "{{ name }}",
   "version": "0.1.12",
-  "description": "Vue Oneitfarm Panel Framework",
+  "description": "{{ description }}",
   "homepage": "https://oneitfarm.com",
   "license": "MIT",
-  "author": {
-    "name": "CH",
-    "email": "chenghao@corp-ci.com"
-  },
+  "author": "{{ author }}",
   "keywords": [
     "admin",
     "oneitfarm",
